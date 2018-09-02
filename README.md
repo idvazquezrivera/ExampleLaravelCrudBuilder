@@ -15,8 +15,8 @@ php artisan key:generate
 ```
 ```
 cp .env.example .env
+# Make a database and meke up her connection at .env file do it
 ```
-NOTE: _Make a database and meke up her connection at .env file do it_
 
 ```
 php artisan migrate
